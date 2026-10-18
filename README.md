@@ -36,7 +36,7 @@ This project uses a Bash script to automate the setup of an Nginx web server on 
    sudo systemctl status nginx
    ```
 
-5. Open `http://YOUR-EC2-PUBLIC-IP/` in a browser.
+5. Open http://13.51.169.186/ in a browser.
 
 ## Important Notes
 - The script is intended for Ubuntu Linux and should be run on the EC2 instance, not Windows or WSL.
